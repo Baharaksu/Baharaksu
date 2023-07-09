@@ -2,7 +2,7 @@
 - 👀 I’m interested in phonetics in general.
 - 🌱 I’m currently learning github itself (and coding too)
 - 💞️ I’m not looking to collaborate on anything yet (sorry I am false beginner)
-- 📫 You can reach me via e-mail b.aksu@lancaster.ac.uk
+- 📫 You can reach me via e-mail bahar.aksu@erzincan.edu.tr
 
 <!---
 Baharaksu/Baharaksu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
